@@ -1,0 +1,6 @@
+[
+  "snowman/game_test.py::TestSnowman::test_prints_failure_message_with_7_straight_wrong_guesses",
+  "snowman/game_test.py::TestSnowman::test_prints_failure_message_with_7_wrong_guesses_and_two_right",
+  "snowman/game_test.py::TestSnowman::test_prints_success_message_if_all_letters_guessed",
+  "snowman/game_test.py::TestSnowman::test_prints_success_message_with_3_wrong_guesses_and_the_rest_right"
+]
