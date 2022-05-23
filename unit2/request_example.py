@@ -14,3 +14,6 @@ response = requests.get(path, params=query_params)
 
 print("The value of response is", response)
 print("The value of response.text, which contains a text description of the request, is", response.text)
+
+
+

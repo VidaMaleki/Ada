@@ -1,7 +1,6 @@
 {
-    "python.testing.pytestArgs": [
-        "testing-example"
-    ],
-    "python.testing.unittestEnabled": false,
-    "python.testing.pytestEnabled": true
+  "python.testing.pytestArgs": ["testing-example"],
+  "python.testing.unittestEnabled": false,
+  "python.testing.pytestEnabled": true,
+  "liveServer.settings.port": 5501
 }
