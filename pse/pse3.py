@@ -11,6 +11,16 @@ def hamming_distance(strand1, strand2):
     for i , j in zip(strand1, strand2): diff += 1 if i != j else 0
     return diff
 
+
+# def hamming_distance(strand1, strand2):
+#     count = 0
+#     for i in range(len(strand1)):
+#         if strand1[i] != strand2[i]:
+#             count += 1
+#     return count
+
+
+
 print(hamming_distance(strand1, strand2))
 
 
